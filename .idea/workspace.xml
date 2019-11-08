@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca7a16f8-c4dc-462d-802c-b982796e2d95" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
+    <list default="true" id="ca7a16f8-c4dc-462d-802c-b982796e2d95" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/roman-numbers.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/roman-numbers.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/RomanNumbersKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/RomanNumeralHolder/RomanNumeralGuesserKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/RomanNumeralHolder/RomanNumeralService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$Our roman numeral tests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return groupings of roman numerals$we can with the following parameters$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return groupings of roman numerals$we can with the following parameters$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return groupings of roman numerals$we can with the following parameters$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return groupings of roman numerals$we can with the following parameters$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return groupings of roman numerals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return single roman numeral$we can with the following parameters$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return single roman numeral$we can with the following parameters$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return single roman numeral$we can with the following parameters$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return single roman numeral$we can with the following parameters$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return single roman numeral$we can with the following parameters$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return single roman numeral$we can with the following parameters$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return single roman numeral$we can with the following parameters$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest$When we want to return single roman numeral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/RomanNumeralTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/RomanNumbers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/RomanNumeralHolder/RomanNumeralGuesser.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/RomanNumeralHolder/RomanNumeralService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/RomanNumeralTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/RomanNumeralTest.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,54 +42,6 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.309375">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/build.gradle">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="13" selection-start-column="13" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/kotlin/RomanNumbers.kt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
-                  <caret line="26" selection-start-line="26" selection-end-line="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/kotlin/RomanNumeralHolder/RomanNumeralGuesser.kt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/kotlin/RomanNumeralTest.kt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -73,98 +51,37 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/RomanNumbersTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/RomanNumeralHolder/RomanNumerals.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/RomanNumeralHolder/RomanNumerals.kt" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/RomanNumbersTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/RomanNumbers.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/RomanNumeralHolder/RomanNumeralService.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/RomanNumeralHolder/RomanNumeralGuesser.kt" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/RomanNumeralTest.kt" />
-      </list>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1200" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1002" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="roman-numbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roman-numbers" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="roman-numbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roman-numbers" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roman-numbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roman-numbers" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="roman-numbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roman-numbers" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roman-numbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roman-numbers" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="RomanNumeralHolder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roman-numbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roman-numbers" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="roman-numbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roman-numbers" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1TKtaLzQK170wdzrLMfP5UB31RR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568381939227" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568390702033" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -199,26 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.romans.roman-numbers.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RomanNumeralTest$Our roman numeral tests" />
-      <option name="METHOD_NAME" value="we can guess a simple number less than 100" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.romans.roman-numbers.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RomanNumeralTest$Our roman numeral tests" />
-      <option name="METHOD_NAME" value="we can guess a simple number less than 20" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 40" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.romans.roman-numbers.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -238,13 +135,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RomanNumeralTest.We can convert any number to equal amount of &quot;I&quot;" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.romans.roman-numbers.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralTest" />
+      <option name="METHOD_NAME" value="We can convert any number to equal amount of &quot;I&quot;" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralTest.We have a list of main numerals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.romans.roman-numbers.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralTest" />
+      <option name="METHOD_NAME" value="We have a list of main numerals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RomanNumeralTest" />
+        <item itemvalue="JUnit.RomanNumeralTest.We have a list of main numerals" />
+        <item itemvalue="JUnit.RomanNumeralTest.We can convert any number to equal amount of &quot;I&quot;" />
         <item itemvalue="JUnit.RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 40" />
         <item itemvalue="JUnit.RomanNumeralTest$Our roman numeral tests" />
-        <item itemvalue="JUnit.RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 100" />
-        <item itemvalue="JUnit.RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 20" />
       </list>
     </recent_temporary>
   </component>
@@ -266,170 +183,56 @@
       <workItem from="1564758268413" duration="469000" />
       <workItem from="1565013854988" duration="8088000" />
       <workItem from="1565113431031" duration="6125000" />
+      <workItem from="1568381891570" duration="3547000" />
+      <workItem from="1573220681312" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralTest$Our_roman_numeral_tests_we_can_guess_a_simple_number_less_than_100 - 2019.08.06 at 20h 11m 39s.xml">
-      <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 100" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest - 2019.09.13 at 14h 39m 22s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest$Our_roman_numeral_tests_we_can_guess_a_simple_number_less_than_100 - 2019.08.06 at 20h 12m 33s.xml">
-      <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 100" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest - 2019.09.13 at 14h 40m 31s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest$Our_roman_numeral_tests_we_can_guess_a_simple_number_less_than_100 - 2019.08.06 at 20h 13m 07s.xml">
-      <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 100" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest_We_can_convert_any_number_to_equal_amount_of__I_ - 2019.09.13 at 15h 12m 46s.xml">
+      <configuration name="RomanNumeralTest.We can convert any number to equal amount of &quot;I&quot;" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest$Our_roman_numeral_tests_we_can_guess_a_simple_number_less_than_100 - 2019.08.06 at 20h 13m 35s.xml">
-      <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 100" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest_We_can_convert_any_number_to_equal_amount_of__I_ - 2019.09.13 at 15h 13m 01s.xml">
+      <configuration name="RomanNumeralTest.We can convert any number to equal amount of &quot;I&quot;" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest$Our_roman_numeral_tests_we_can_guess_a_simple_number_less_than_40 - 2019.08.06 at 20h 14m 12s.xml">
-      <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 40" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest_We_can_convert_any_number_to_equal_amount_of__I_ - 2019.09.13 at 15h 14m 33s.xml">
+      <configuration name="RomanNumeralTest.We can convert any number to equal amount of &quot;I&quot;" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest$Our_roman_numeral_tests_we_can_guess_a_simple_number_less_than_40 - 2019.08.06 at 20h 14m 28s.xml">
-      <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 40" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest_We_can_convert_any_number_to_equal_amount_of__I_ - 2019.09.13 at 15h 15m 52s.xml">
+      <configuration name="RomanNumeralTest.We can convert any number to equal amount of &quot;I&quot;" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest$Our_roman_numeral_tests_we_can_guess_a_simple_number_less_than_40 - 2019.08.06 at 20h 14m 43s.xml">
-      <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 40" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest_We_can_convert_any_number_to_equal_amount_of__I_ - 2019.09.13 at 15h 16m 05s.xml">
+      <configuration name="RomanNumeralTest.We can convert any number to equal amount of &quot;I&quot;" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest$Our_roman_numeral_tests - 2019.08.06 at 20h 31m 53s.xml">
-      <configuration name="RomanNumeralTest$Our roman numeral tests" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest_We_can_convert_any_number_to_equal_amount_of__I_ - 2019.09.13 at 15h 17m 07s.xml">
+      <configuration name="RomanNumeralTest.We can convert any number to equal amount of &quot;I&quot;" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest$Our_roman_numeral_tests_we_can_guess_a_simple_number_less_than_40 - 2019.08.06 at 20h 32m 04s.xml">
-      <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 40" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest_We_have_a_list_of_main_numerals - 2019.09.13 at 15h 26m 54s.xml">
+      <configuration name="RomanNumeralTest.We have a list of main numerals" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest$Our_roman_numeral_tests_we_can_guess_a_simple_number_less_than_40 - 2019.08.06 at 20h 32m 26s.xml">
-      <configuration name="RomanNumeralTest$Our roman numeral tests.we can guess a simple number less than 40" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest - 2019.09.13 at 15h 27m 54s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27304000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1590" y="-1073" width="2133" height="877" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2028754" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45202953" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39927733" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.3297561" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32881662" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2028754" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44333333" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39927733" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.3297561" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32881662" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralHolder/RomanNumerals.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/RomanNumbersTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="30" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/RomanNumeralHolder/RomanNumeralService.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/RomanNumbers.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/RomanNumeralTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/RomanNumeralHolder/RomanNumeralGuesser.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
